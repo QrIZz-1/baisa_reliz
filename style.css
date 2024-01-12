@@ -1,0 +1,129 @@
+body {
+	background-image: url(https://cdna.artstation.com/p/assets/images/images/022/521/258/original/bogdan-mb0sco-coffee-shop-animationfullhd.gif?1575731432);
+	font-family: sans-serif;
+	padding: 20px;
+}
+
+h1 {
+	font-size: 40px;
+	margin-top: 0;
+	margin-bottom: 15px;
+}
+
+h2 {
+	font-size: 30px;
+}
+
+.established {
+	font-style: italic;
+}
+
+h1,
+h2,
+p {
+	text-align: center;
+}
+
+.menu {
+	width: 80%;
+	background-color: burlywood;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 20px;
+	max-width: 500px;
+}
+
+.karta {
+	height: 500px;
+	width: 100%;
+	/* Змінено ширину на 100%, щоб відповідати ширині меню */
+}
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: -25px;
+}
+
+hr {
+	height: 2px;
+	background-color: brown;
+	border-color: brown;
+}
+
+.bottom-line {
+	margin-top: 25px;
+}
+
+h1,
+h2 {
+	font-family: Impact, serif;
+}
+
+.item p {
+	display: inline-block;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	font-size: 18px;
+}
+
+.flavor,
+.dessert {
+	text-align: left;
+	width: 75%;
+}
+
+.price {
+	text-align: right;
+	width: 24%;
+}
+
+/* FOOTER */
+
+footer {
+	margin-top: 20px;
+	/* Зазначте відступ від верху футера, який вам відповідає */
+	background-color: burlywood;
+	/* Задайте колір футера для відображення рівності */
+	padding: 20px;
+	text-align: center;
+	/* Вирівняйте текст по центру в футері */
+}
+
+.address {
+	margin-top: 10px;
+	/* Додайте відступ між посиланням і текстом у футері */
+}
+
+a {
+	color: black;
+}
+
+a:visited {
+	color: black;
+}
+
+a:hover {
+	color: brown;
+}
+
+a:active {
+	color: brown;
+}
+
+.instagram {
+	margin-top: 20px;
+}
+
+.spacer {
+	margin-right: 10px;
+	/* Задайте бажаний відступ між значками */
+}
+
+.facebook-icon {
+	margin-top: -30px;
+	margin-left: 250px;
+
+
+}
